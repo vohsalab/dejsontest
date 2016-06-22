@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DE JSON Test</string>
+    <string name="no_data_available">No data available</string>
+    <string name="author">"Author "</string>
+</resources>
